@@ -9,5 +9,5 @@ public class HrBuddyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HrBuddyApplication.class, args);
 	}
-
+	
 }
